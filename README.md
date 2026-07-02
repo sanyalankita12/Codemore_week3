@@ -11,6 +11,8 @@ Features:
 - Update Student
 - Display Students
 
+![image](screenshots/task_1.png)
+
 ## Task 2
 Error Handling
 
@@ -20,6 +22,8 @@ Examples:
 - IndexError
 - FileNotFoundError
 
+![image](screenshots/task_2.png)
+
 ## Task 3
 Object-Oriented Programming
 
@@ -28,6 +32,8 @@ Concepts:
 - Objects
 - Inheritance
 - Polymorphism
+
+![image](screenshots/task_3.png)
 
 Language:
 Python 3
